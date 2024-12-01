@@ -34,7 +34,7 @@
        <input type="submit" class="btn" value="Sign Up" name="signUp">
       </form>
       <div class="links">
-        <p>Already Have Account?</p>
+        <p>may account kana?</p>
         <button id="signInButton">Sign In</button>
       </div>
     </div>
