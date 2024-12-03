@@ -34,7 +34,7 @@
        <input type="submit" class="btn" value="Sign Up" name="signUp">
       </form>
       <div class="links">
-        <p>do you have an account already?</p>
+        <p>Already have an account?</p>
         <button id="signInButton">Sign In</button>
       </div>
     </div>
@@ -45,7 +45,7 @@
           <div class="input-group">
               <i class="fas fa-envelope"></i>
               <input type="email" name="email" id="email" placeholder="Email" required>
-              <label for="email">Email</label>
+              <label for="email">Username</label>
           </div>
           <div class="input-group">
               <i class="fas fa-lock"></i>
@@ -55,7 +55,7 @@
          <input type="submit" class="btn" value="Sign In" name="signIn">
         </form>
         <div class="links">
-          <p>Don't have account yet?</p>
+          <p>Create account here!</p>
           <button id="signUpButton">Sign Up</button>
         </div>
       </div>
